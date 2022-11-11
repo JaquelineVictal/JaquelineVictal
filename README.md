@@ -1,5 +1,5 @@
 <h1>Hello World! Welcome to my profile!
-    <h2 align="center">Olá, eu sou o Jaque!</h2>
+    <h2 align="center">Olá, eu sou a Jaque!</h2>
     <p>Oie, bem vinde ao meu perfil. Sou o Jaqueline, tenho 25 anos e moro na Zona Oeste de São Paulo -SP. 
      <br>
         Sou formada em engenharia biomédica pela UFABC, eu trabalhei como analista de gestão de projetos há aproximadamente 4 anos, tendo atuado em projetos de melhorias contínua, marketing e trade. Além de atuar com responsável pela gestão das melhorias de uma plataforma B2B<br>
