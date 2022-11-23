@@ -1,4 +1,4 @@
-<h1>Hello World! Welcome to my profile!
+<h1 align="center">Hello World! Welcome to my profile!
     <h2 align="center">Olá, eu sou a Jaque!</h2>
      <br>
      <br>
