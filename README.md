@@ -42,11 +42,10 @@
 <a href="https://www.linkedin.com/in/jaqueline-victal-b94029158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
-<div>
-    <a href="https://github.com/JaquelineVictal">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineVictal&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JaquelineVictal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=JaquelineVictal" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=JaquelineVictal" height="130" alt="languages graph"  />
+</div>
     <br>
 
 <!--
