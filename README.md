@@ -2,11 +2,10 @@
     <h2 align="center">Olá, eu sou a Jaque!</h2>
      <br>
      <br>
-    <p>Oie, bem vinde ao meu perfil. Sou o Jaqueline, tenho 25 anos e moro na Zona Oeste de São Paulo -SP. 
+    <p>Oie, bem vinde ao meu perfil. Sou o Jaqueline, tenho 26 anos e moro na Zona Oeste de São Paulo -SP. 
      <br>
      <br>
-        Sou formada em engenharia biomédica pela UFABC, eu trabalhei como analista de gestão de projetos há aproximadamente 4 anos, tendo atuado em projetos de melhorias contínua, marketing e trade. Além de atuar com responsável pela gestão das melhorias de uma plataforma B2B<br>
-        Em julho de 20202, juntamente com a Gama Academy, comecei a minha transição de carreira e atualmente trabalho como Desenvolvedora Back-end
+        Sou desenvolvedora back-end apaixonada pela criação de soluções eficientes e de alta qualidade. Com experiência em JavaScript, TypeScript, Node.js , Prisma, TypeORM, MongoDB, Jest, NestJS, RabbitMQ e GraphQL. Utilizo metodologias ágeis, como Scrum e Kanban, para colaborar de forma efetiva em uma equipe multidisciplinar. Tenho habilidades em testes (unitários e integração), microsserviços, Git, Docker e Angular. Sou comprometida com a qualidade do código e uso de melhores práticas de desenvolvimento como programação funcional, TDD, clean code e design patterns. Atualmente, estou aprimorando meus conhecimentos em AWS.
         <br>
          <br>
         Ah, fique à vontade pra ver meus projetos. 😁
